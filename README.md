@@ -12,4 +12,4 @@ This is for testing USB GPS devices on Windows.
 
 
 - Set COM port number. Example `COM4`
-- run `gps_monitor.ps1`
+- run `gps_monitor.ps1` in the scripts folder.
